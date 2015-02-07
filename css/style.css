@@ -1,4 +1,9 @@
-body {font: 13px arial, Freesans, sans-serif;}
+/*
+Version: 0.1
+Author: jaideep Chauhan
+Author URI: https://github.com/jaideepchauhan
+*/
+body {font: 13px arial, sans-serif;}
 body, select, input, textarea {color: #333;}
 a {color: #03f;}
 a:hover {color: #69f;}
